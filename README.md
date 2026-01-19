@@ -189,19 +189,40 @@ The application has two parts:
 ---
 
 ## 👥 Contributors
-
+### Researchers
 - [**Yun Sing Koh**](https://profiles.auckland.ac.nz/y-koh) — Professor at the School of Computer Science, University of Auckland
+
+- [**Daniel Wilson**](https://profiles.auckland.ac.nz/daniel-wilson) — Lecturer at the School of Computer Science, University of Auckland
+
+- [**Gillian Dobbie**](https://profiles.auckland.ac.nz/g-dobbie) — Professor at the School of Computer Science, University of Auckland
+
+- [**Wayne Marcus Getz**](https://vcresearch.berkeley.edu/faculty/wayne-m-getz) — Professor at the Department of Environmental Science, Policy, and Management, UC Berkeley
+
+- [**Lingqiao Liu**](https://www.adelaide.edu.au/directory/lingqiao.liu) — Associate Professor at the School of Computer Science, The University of Adelaide
+
+- [**Al Glen**](https://profiles.auckland.ac.nz/al-glen) — Associate Professor at the School of Biological Sciences, University of Auckland
+
+- [**Xinyu Zhang**](https://profiles.auckland.ac.nz/xinyu-zhang) — Lecturer at the School of Computer Science, University of Auckland
+
+- [**Jingfeng Zhang**](https://profiles.auckland.ac.nz/jingfeng-zhang) — Lecturer at the School of Computer Science, University of Auckland
+
+### Students
 - [**Di Zhao**](https://www.linkedin.com/in/di-zhao-56869498/) — 4th-Year PhD Student
+
 - [**Yihao Wu**](https://www.linkedin.com/in/yihao-wu-justin327) — 1st-Year PhD Student
-- [**Matthew Alajas**](https://www.linkedin.com/in/matthew-alajas-79762a136/) — Master Student
-- [**Yuzhuo Li**](https://www.linkedin.com/in/yuzhuo-li-a4a8b4245/) — Master Student
-- [**Chris Pearce**](https://github.com/cpearce) — Software Engineer
 
----
+- [**Yuzhuo Li**](https://www.linkedin.com/in/yuzhuo-li-a4a8b4245/) — 1st-Year PhD Student
 
-## 🤝 Collaborators & Acknowledgements
+- [**Fiona Marie Bautista**](https://www.linkedin.com/in/fm-bautista/) — 1st-Year PhD Student
 
-We would like to extend our sincere gratitude to Professor [Gillian Dobbie](https://profiles.auckland.ac.nz/g-dobbie), Dr. [Daniel Wilson](https://profiles.auckland.ac.nz/daniel-wilson), [Te Korowai o Waiheke](https://tekorowaiowaiheke.org/), and Capstone Team 39 for their invaluable contributions to the development of CARE (Previous version of ReWildID Pro). Their dedication, collaboration, and technical expertise have been instrumental in driving our work forward. We are also deeply grateful to Te Korowai o Waiheke for their support and partnership, whose commitment to environmental stewardship and community well-being continues to inspire and enrich our efforts. This project would not have been possible without the combined efforts of these outstanding partners.
+- [**Alex Lou**](https://www.linkedin.com/in/chengyu-alex-lou/) — Master Student
+
+
+<!-- --- -->
+
+<!-- ## 🤝 Collaborators & Acknowledgements
+
+We would like to extend our sincere gratitude to Professor [Gillian Dobbie](https://profiles.auckland.ac.nz/g-dobbie), Dr. [Daniel Wilson](https://profiles.auckland.ac.nz/daniel-wilson), [Te Korowai o Waiheke](https://tekorowaiowaiheke.org/), and Capstone Team 39 for their invaluable contributions to the development of CARE (Previous version of ReWildID Pro). Their dedication, collaboration, and technical expertise have been instrumental in driving our work forward. We are also deeply grateful to Te Korowai o Waiheke for their support and partnership, whose commitment to environmental stewardship and community well-being continues to inspire and enrich our efforts. This project would not have been possible without the combined efforts of these outstanding partners. -->
 
 ---
 
