@@ -1,0 +1,29 @@
+.tree-item {
+  padding: 10px;
+  cursor: pointer;
+  border-radius: var(--header-border-radius);
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+}
+
+.tree-item:hover {
+  background: var(--colour-gray-6);
+  transition: all 0.3s ease;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  color: var(--text-colour-dark);
+}
+
+.tree-item-active {
+  background: var(--colour-gray-4);
+  transition: all 0.3s ease; 
+  color: var(--text-colour-dark);
+}
+
+.tree-item-icon {
+  width: 16px;
+}
+
+.tree-item-child {
+  padding-left: 20px;
+}
